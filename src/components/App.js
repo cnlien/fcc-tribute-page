@@ -5,10 +5,6 @@ import Header from '../components/Header.jsx'
 import TributeInfo from '../components/TributeInfo.jsx'
 import Footer from '../components/Footer.jsx'
 
-import {
-  Container,
-} from 'reactstrap'
-
 // STYLES
 import '../styles/global.scss'
 
